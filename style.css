@@ -58,11 +58,13 @@ a:hover {
 
 img {
   object-fit: cover;
-  width: 30%;
+  width: 10vw;
+  height: 10vw;
 }
 
 .img-circle {
   border-radius: 50%;
+  object-position: left;
 }
 
 .list-inline > li {
